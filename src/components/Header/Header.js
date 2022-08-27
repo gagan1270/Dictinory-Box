@@ -15,7 +15,7 @@ const Header = () => {
     
     
     <div className='header'>
-        <span className='title'> Dictonary Box</span>
+        <span className='title'> Dictonary </span>
         <div className='inputs'> 
        
         <ThemeProvider theme={darkTheme}>
